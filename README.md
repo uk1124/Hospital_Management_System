@@ -1,1 +1,1 @@
-An online health portal using concepts of DBMS.
+An online health portal made using concepts of DBMS.
